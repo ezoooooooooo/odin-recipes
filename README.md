@@ -1,4 +1,4 @@
 # odin-recipes
-This is a recipes website which have an index page that have links to different recipes
+This a recipe website created using what i learned about HTML and CSS in TOP
 
-I have learned a lot about tags imgs links and so 
+It have a main page which have links to 3 recipes. I tried to use all what i've learned till now 
