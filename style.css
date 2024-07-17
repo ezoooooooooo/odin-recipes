@@ -35,3 +35,39 @@
  
  
 }
+.head{
+ text-align: center;
+ color: black;
+
+ 
+}
+.body1{
+background-color: aliceblue;
+}
+.pic{
+ height: auto;
+ width: 350px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ 
+ 
+}
+#one{
+ color: red;
+ font-weight: bolder;
+}
+#two{
+ color: red;
+ font-size: large;
+ font-style: inherit;
+}
+h2{
+ color: black;
+ font-style: oblique;
+ font-weight: lighter;
+}
+.li{
+ color: navy;
+ font-size: 20px;
+}
