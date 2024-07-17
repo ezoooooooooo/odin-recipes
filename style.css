@@ -1,0 +1,37 @@
+.title{
+ color:gold;
+ text-align: center;
+ 
+
+ 
+ 
+ font-weight: bolder;
+ font-size: 80px;
+ 
+}
+#main{
+ 
+ background-image: url('imgs/overhead-view-blank-spiral-notepad-with-italian-pasta-ingredients-against-black-textured-backdrop.jpg');
+ background-repeat: no-repeat;
+ background-position: center ;
+ background-attachment: fixed ;
+ background-size: cover;
+ 
+}
+.menu{
+ list-style-position: outside;
+ text-align: justify;
+ list-style: disc;
+ 
+ 
+ 
+}
+.list{
+ color: olive;
+ font-size: 30px;
+ font-weight: bolder;
+ text-decoration: none;
+
+ 
+ 
+}
