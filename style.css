@@ -56,17 +56,14 @@ background-color: aliceblue;
 .one{
  color: black;
  font-weight: bolder;
+ font-style: oblique;
 }
 .two{
  color: black;
  font-size: larger;
  font-style: inherit;
 }
-h2{
- color: black;
- font-style: oblique;
- font-weight: lighter;
-}
+
 .li{
  color: navy;
  font-size: 20px;
