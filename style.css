@@ -1,10 +1,8 @@
 .title{
  color:gold;
  text-align: center;
- 
-
- 
- 
+ margin-bottom: 8px;
+ padding-right: 25px;
  font-weight: bolder;
  font-size: 80px;
  
@@ -20,8 +18,9 @@
 }
 .menu{
  list-style-position: outside;
- text-align: justify;
  list-style: disc;
+ margin-top: 90px;
+
  
  
  
@@ -31,9 +30,15 @@
  font-size: 30px;
  font-weight: bolder;
  text-decoration: none;
+}
+.style{
+ padding-bottom: 20px;
+ margin-left:868px;
 
  
- 
+}
+#first{
+ margin-top: 250px;
 }
 .head{
  text-align: center;
@@ -57,6 +62,7 @@ background-color: aliceblue;
  color: black;
  font-weight: bolder;
  font-style: oblique;
+ margin: 30px auto;
 }
 .two{
  color: navy;
@@ -67,9 +73,11 @@ background-color: aliceblue;
 .li{
  color: navy;
  font-size: 20px;
+ padding: 10px;
 }
 .ul{
  list-style-type: square;
+ 
 }
 .ol{
  list-style-type: lower-alpha;
